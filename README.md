@@ -28,12 +28,6 @@ npm install
 
 2. Másold az `.env.example` fájlt `.env.local` néven, és add meg a `DATABASE_URL` értékét.
 
-3. Futtasd az adatbázis inicializálást (psql, Render SQL shell, stb.):
-
-```bash
-psql "DATABASE_URL" -f init-db.sql
-```
-
 ## API végpontok
 
 - `GET /api/products` – összes termék JSON-ben
