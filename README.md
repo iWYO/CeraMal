@@ -1,4 +1,4 @@
-# CeraMal – egyetemi webshop beadandó
+# CeraMal
 
 Kerámia webshop Next.js-sel. A termékek PostgreSQL adatbázisból jönnek, a kosár a böngésző memóriájában tárolódik (React Context).
 
